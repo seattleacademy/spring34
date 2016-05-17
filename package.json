@@ -1,0 +1,27 @@
+{
+  "name": "spring34",
+  "version": "0.0.1",
+  "description": "lesson plan for snap server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/seattleacademy/spring34"
+  },
+  "keywords": [
+    "snap",
+    "server"
+  ],
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/spring34/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/spring34",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
